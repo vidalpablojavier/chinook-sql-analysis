@@ -7,6 +7,8 @@ This repository contains examples of SQL commands for work different concepts ab
 
 ## Database schema
 
+Here is the schema of the database used in all the queries.
+
 ![chinook database schema](chinook.jpg)
 
 ## Directory structure 
@@ -23,29 +25,3 @@ This repository contains examples of SQL commands for work different concepts ab
   - *SQL_4_B_joins*: Queries that test different kind of joins (LEFT, RIGHT, etc.).
   - *SQL_4_C_advanced*: Queries more complex to integrate different concepts about SQL commands.
 
-</br>
-
-Here is the schema of the database used for all the queries.
-
-
-
-
-- Directory dh has an implementation of datawarehouse only for study purposes.
-
-
-
-1. SQL Cleaning
-2. Basic SQL queries
-3. Joins
-4. Advanced joins
-
-Also the directory has two files: northwind
-
-
-Steps to upload the database:
-
-
-1. Open Terminal.
-2. Enter PostgreSQL console - `psql` 
-3. Create a new database - `CREATE DATABASE parch_and_posey;`
-4. Restore into the database - `pg_restore -d parch_and_posey /path/to/parch_and_posey_db`
