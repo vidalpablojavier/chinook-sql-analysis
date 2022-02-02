@@ -1,16 +1,3 @@
----
-deleted: true
-tags: [Import-b090]
-title: Analysis with SQL
-created: '2022-02-01T18:55:48.892Z'
-modified: '2022-02-01T18:57:19.801Z'
----
-
----
-title: Analysis with SQL
-created: '2022-02-01T18:55:09.029Z'
-modified: '2022-02-01T18:55:47.136Z'
----
 
 # Analysis with SQL
 
@@ -20,7 +7,7 @@ This repository contains examples of SQL commands for work different concepts ab
 
 ## Database schema
 
-![chinook database schema](chinook.png)
+![chinook database schema](chinook.jpg)
 
 ## Directory structure 
 
